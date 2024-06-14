@@ -6,7 +6,7 @@
 - 📫  email me at sakibazamanprioty@gmail.com
 
 ## More About Me :book:
-- I am proficient in Python,JS,C++,HTML and CSS
+- I am proficient in Python,Pandas, NumPy, Dask, Apache Spark, TensorFlow Serving etc
 - I have started learning MERN
 - I am an avid reader
 - I am ambidextrous. I can use both my left and right hand equally 👀
