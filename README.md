@@ -7,13 +7,13 @@
 
 ## More About Me :book:
 - I am proficient in Python,JS,C++,HTML and CSS
-- I have started working with MERN
+- I have started learning MERN
 - I am an avid reader
 - I am ambidextrous. I can use both my left and right hand equally 👀
 
 
 ### Goals of 2024
-- Launch an E-learning coding platform catered towards kids in Bangladesh
+- Launch an E-learning coding platform catered towards the kids in Bangladesh
 - Create an impressive personal portfolio
 - Travel to a new country
 - Read 50 books
