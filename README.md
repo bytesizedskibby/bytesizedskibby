@@ -1,7 +1,7 @@
  # Hello, Sakiba here!
 
 - 👀 I love taking part in challenges
-- 🌱 I’m a **Computer Science God** in the making 😉
+- 🌱 I’m a **Computer Science Student** 😉
 - 💞️ I’m looking to collaborate on projects that'll ease the suffering of mankind 
 - 📫  email me at sakibazamanprioty@gmail.com
 
@@ -11,7 +11,7 @@
 - I am ambidextrous. I can use both my left and right hand equally 👀
 
 
-### Goals of 2024
+### Goals of 2026
 - Launch an E-learning coding platform catered towards the kids in Bangladesh
 - Create an impressive personal portfolio
 - Travel to a new country
